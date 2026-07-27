@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple **front-end projects** — including dashboards, mobile apps, and portfolio websites.<br>🌱 I’m learning more about **advanced animations, state management (Redux/Zustand), and performance optimization**.<br>👯 I’m looking to collaborate on **open-source front-end tools and UI component libraries**.<br>💬 Ask me about **React, Next.js, and building responsive UI/UX**.<br>📫 How to reach me: [email or LinkedIn link]<br>⚡ Fun fact: I love combining design and code to create interactive experiences.
+🔭 I'm currently building **AI-powered tools for IT workflows** — including an AI support-ticket triage bot in Python using the Claude API.<br>
+🌱 I'm learning more about **applied AI, LLM integration, prompt engineering, and Python automation**.<br>
+💻 My background is in **IT & technical support** — Active Directory, Microsoft 365, help desk, and troubleshooting.<br>
+👯 I'm looking to collaborate on **practical AI + automation projects, especially ones that make IT operations faster**.<br>
+💬 Ask me about **IT support, Active Directory, Microsoft 365, and integrating AI into real workflows**.<br>
+📫 How to reach me: zb.zainabbaig@gmail.com<br>
+⚡ Fun fact: I like finding where AI actually fits into everyday IT problems — not hype, just useful automation.
 
 
 ## 🌐 Socials:
